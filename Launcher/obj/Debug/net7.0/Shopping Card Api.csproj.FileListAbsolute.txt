@@ -1,0 +1,33 @@
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\appsettings.Development.json
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\appsettings.json
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Shopping Card Api.exe
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Shopping Card Api.deps.json
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Shopping Card Api.runtimeconfig.json
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Shopping Card Api.dll
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Shopping Card Api.pdb
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\Game Global\Shopping Card Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.csproj.AssemblyReference.cache
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.AssemblyInfoInputs.cache
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.AssemblyInfo.cs
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.csproj.CoreCompileInputs.cache
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets\msbuild.Shopping Card Api.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Shopping Card Api.props
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Shopping Card Api.props
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Shopping Card Api.props
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets.build.json
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\staticwebassets.development.json
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\scopedcss\bundle\Shopping Card Api.styles.css
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.csproj.CopyComplete
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.dll
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\refint\Shopping Card Api.dll
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.pdb
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\Shopping Card Api.genruntimeconfig.cache
+G:\Projects\Game Global\Shopping Card Api\obj\Debug\net7.0\ref\Shopping Card Api.dll

@@ -1,0 +1,24 @@
+G:\Projects\Game Global\Shopping Card Api\Dtos\bin\Debug\net7.0\Dtos.deps.json
+G:\Projects\Game Global\Shopping Card Api\Dtos\bin\Debug\net7.0\Dtos.dll
+G:\Projects\Game Global\Shopping Card Api\Dtos\bin\Debug\net7.0\Dtos.pdb
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.dll
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\Dtos.pdb
+G:\Projects\Game Global\Shopping Card Api\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\bin\Debug\net7.0\Dtos.deps.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\bin\Debug\net7.0\Dtos.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\bin\Debug\net7.0\Dtos.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\Dtos.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Dtos\obj\Debug\net7.0\ref\Dtos.dll

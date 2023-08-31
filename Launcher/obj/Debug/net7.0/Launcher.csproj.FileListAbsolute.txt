@@ -1,0 +1,164 @@
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\appsettings.Development.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\appsettings.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Launcher.exe
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Launcher.deps.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Launcher.runtimeconfig.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Launcher.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Launcher.pdb
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Azure.Core.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Azure.Identity.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Humanizer.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.CodeDom.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Dtos.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Services.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Services.pdb
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Dtos.pdb
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.csproj.AssemblyReference.cache
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.AssemblyInfoInputs.cache
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.AssemblyInfo.cs
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.csproj.CoreCompileInputs.cache
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.Launcher.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.build.Launcher.props
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Launcher.props
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Launcher.props
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets.build.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\staticwebassets.development.json
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\scopedcss\bundle\Launcher.styles.css
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.csproj.CopyComplete
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\refint\Launcher.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.pdb
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\Launcher.genruntimeconfig.cache
+G:\Projects\Game Global\Shopping Card Api\Launcher\obj\Debug\net7.0\ref\Launcher.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Entities.dll
+G:\Projects\Game Global\Shopping Card Api\Launcher\bin\Debug\net7.0\Entities.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\appsettings.Development.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\appsettings.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Launcher.exe
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Launcher.deps.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Launcher.runtimeconfig.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Launcher.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Launcher.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Azure.Core.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Azure.Identity.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Humanizer.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.CodeDom.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Dtos.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Entities.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Services.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Dtos.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Entities.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\bin\Debug\net7.0\Services.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.csproj.AssemblyReference.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.AssemblyInfoInputs.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.AssemblyInfo.cs
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.csproj.CoreCompileInputs.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.Launcher.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.build.Launcher.props
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Launcher.props
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Launcher.props
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets.build.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\staticwebassets.development.json
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\scopedcss\bundle\Launcher.styles.css
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.csproj.CopyComplete
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\refint\Launcher.dll
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.pdb
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\Launcher.genruntimeconfig.cache
+G:\Projects\Game Global\ShoppingCard-FullStack\Launcher\obj\Debug\net7.0\ref\Launcher.dll
