@@ -1,21 +1,21 @@
 ﻿using Dtos.Interfaces;
 
-namespace Dtos.Models;
+namespace Dtos.Models.Result;
 
-public class OutputDto
+public class Dto
 {
     public ErrorHandlingDto ErrorHandling { get; set; }
-    public OutputDto()
+    public Dto()
     {
         ErrorHandling = new ErrorHandlingDto();
     }
 }
-public class OutputDto<TModel> : OutputDto, IGenericData<TModel>
+public class Dto<TModel> : Dto, IGenericData<TModel>
 {
     public TModel Data { get; set; }
 }
 
-public class OutputListDto<TModel> : OutputDto, IGenericDataList<TModel> where TModel : class
+public class ListDto<TModel> : Dto, IGenericDataList<TModel> where TModel : class
 {
     public long? TotalRecords { get; set; }
     public IEnumerable<TModel> Data { get; set; }

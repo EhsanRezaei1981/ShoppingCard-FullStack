@@ -35,7 +35,7 @@ public abstract class ShoppingCardDetail
         public abstract class Service
         {
             public class InputDto : Api.InputDto { }
-            public class OutputDto : Dtos.Models.OutputDto { }
+            public class OutputDto : Dtos.Models.Result.Dto { }
         }
     }
 
@@ -50,7 +50,7 @@ public abstract class ShoppingCardDetail
         public abstract class Service
         {
             public class InputDto : Api.InputDto { }
-            public class OutputDto : Dtos.Models.OutputDto { }
+            public class OutputDto : Dtos.Models.Result.Dto { }
         }
     }
 
@@ -65,7 +65,7 @@ public abstract class ShoppingCardDetail
         public abstract class Service
         {
             public class InputDto : Api.InputDto { }
-            public class OutputDto : Dtos.Models.OutputDto { }
+            public class OutputDto : Dtos.Models.Result.Dto { }
         }
     }
 }

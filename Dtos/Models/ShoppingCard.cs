@@ -28,9 +28,9 @@ public abstract class ShoppingCard
         }
         public abstract class Service
         {
-            public class InputDto : Api.InputDto { }
-            public class OutputDto : Dtos.Models.OutputDto { }
+            public class InputDto : Api.InputDto { }            
         }
+        public class OutputDto : Dtos.Models.Result.Dto { }
     }
 
     public abstract class Delete
@@ -42,7 +42,7 @@ public abstract class ShoppingCard
         public abstract class Service
         {
             public class InputDto : Api.InputDto { }
-            public class OutputDto : Dtos.Models.OutputDto { }
+            public class OutputDto : Dtos.Models.Result.Dto { }
         }
     }   
 }

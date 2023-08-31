@@ -4,10 +4,11 @@ namespace Entities;
 
 public class DatabaseContext : DbContext
 {
+    public DbSet<Entities.User> Users { get; set; }
     public DatabaseContext(DbContextOptions options) : base(options)
     {
     }
-
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<User>(builder =>
